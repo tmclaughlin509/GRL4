@@ -1,0 +1,4 @@
+.DS_Store
+
+# Excluded: large HTML with embedded base64 images (~19 MB)
+granger_lake_brochure_standalone.html
